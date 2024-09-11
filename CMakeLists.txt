@@ -3,4 +3,4 @@ project(problem1)
 
 set(CMAKE_CXX_STANDARD 11)
 
-add_executable(problem1 Problem1_Test1.cpp)
+add_executable(problem1 problem1.cpp)
